@@ -3,3 +3,13 @@
     font-size: 70px;
     color:aliceblue;
 }
+
+.bigDiv{
+  text-align: center;
+  margin: auto;
+} 
+
+.buttonWrap{
+  position: "relative";
+  z-Index: 1;
+}
