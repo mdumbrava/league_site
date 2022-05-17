@@ -10,6 +10,12 @@ function App() {
   return (
     <div className="bigDiv">
       <h1 className="title">League Modal</h1>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
       <div className="buttonWrap">
         <img src={caitIcon} onClick={() => setIsOpen(true)} alt="icon" />
 
